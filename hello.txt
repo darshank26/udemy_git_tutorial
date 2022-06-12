@@ -7,3 +7,5 @@ no problem
 =======
 this is test git file line for bad updates
 >>>>>>> very-bad
+
+this is test stashing 
