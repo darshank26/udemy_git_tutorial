@@ -9,3 +9,5 @@ this is test git file line for bad updates
 >>>>>>> very-bad
 
 this is test stashing 
+
+testing out ssh and https diff
