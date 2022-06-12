@@ -2,3 +2,4 @@ this is test git file
 this is test git file line 2 
 this is test git file line 3
 this is test git file line for updates
+this is test git file line for bad updates
